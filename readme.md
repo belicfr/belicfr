@@ -3,7 +3,7 @@
 I am a student in **Computer Sciences** and I am passionate by coding.\
 I started coding during middle school by learning **web development**.
 
-## Mastered programming languages:
+## Programming languages:
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
