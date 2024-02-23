@@ -69,4 +69,3 @@ I started coding during middle school by learning **web development**.
 ![](https://raw.githubusercontent.com/belicfr/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/belicfr/github-stats/master/generated/languages.svg#gh-light-mode-only)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=belicfr)](https://git.io/streak-stats)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belicfr&layout=compact)
