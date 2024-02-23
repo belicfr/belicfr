@@ -64,6 +64,9 @@ I started coding during middle school by learning **web development**.
 ---------
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=belicfr)](https://github.com/ryo-ma/github-profile-trophy)
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=belicfr)](https://github.com/anuraghazra/github-readme-stats)
+![](https://raw.githubusercontent.com/belicfr/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/belicfr/github-stats/master/generated/overview.svg#gh-light-mode-only)
+![](https://raw.githubusercontent.com/belicfr/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/belicfr/github-stats/master/generated/languages.svg#gh-light-mode-only)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=belicfr)](https://git.io/streak-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=belicfr&layout=compact)
