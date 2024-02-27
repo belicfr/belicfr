@@ -3,6 +3,10 @@
 I am a student in **Computer Sciences** and I am passionate by coding.\
 I started coding during middle school by learning **web development**.
 
+## Contact me:
+
+[![C++](https://img.shields.io/badge/Discord-%235562EB.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/705544259742466091)
+
 ## Programming languages:
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
