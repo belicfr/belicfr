@@ -3,11 +3,11 @@
 I am a student in **Computer Sciences** and I am passionate by coding.\
 I started coding during middle school by learning **web development**.
 
-## Contact me:
+## 📱 Contact me:
 
 [![C++](https://img.shields.io/badge/Discord-%235562EB.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/705544259742466091)
 
-## Programming languages:
+## 💻 Programming languages:
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
@@ -21,7 +21,7 @@ I started coding during middle school by learning **web development**.
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
 
-## IDEs used:
+## ⌨️ IDEs used:
 
 ![CLion](https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)
@@ -34,7 +34,7 @@ I started coding during middle school by learning **web development**.
 ![WebStorm](https://img.shields.io/badge/webstorm-143?style=for-the-badge&logo=webstorm&logoColor=white&color=black)
 ![Xcode](https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white)
 
-## Frameworks & libraries used:
+## 🛠️ Frameworks & libraries used:
 
 ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
 ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white)
@@ -50,18 +50,18 @@ I started coding during middle school by learning **web development**.
 ![Twig](https://img.shields.io/badge/Twig-AFC97E?style=for-the-badge&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)
 
-## Tools used:
+## ⚙️ Tools used:
 
 ![Codewars](https://img.shields.io/badge/Codewars-B1361E?style=for-the-badge&logo=codewars&logoColor=grey)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 
-## DBMS used:
+## 📁 DBMS used:
 
 ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 
-## Information monitoring:
+## 🔎 Information monitoring:
 
 ![Dev.to blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)
 
