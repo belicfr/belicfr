@@ -20,6 +20,7 @@ I started coding during middle school by learning **web development**.
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-6277E0?logo=kotlin&logoColor=white&style=for-the-badge)
 
 ## ⌨️ IDEs used:
 
