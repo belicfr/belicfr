@@ -1,5 +1,10 @@
 # Hi, I am a belicfr! 😉
-
+.
+.
+.
+.
+.
+kokkotoktg
 I am a student in **Computer Sciences** and I am passionate by coding.\
 I started coding during middle school by learning **web development**.
 
