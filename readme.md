@@ -1,4 +1,4 @@
-# Hi, I am a belicfr! 😉
+# Hi, my name is Jonathan! 😉
 I am a student in **Computer Sciences** and I am passionate by coding.\
 I started coding during middle school by learning **web development**.
 
