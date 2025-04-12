@@ -5,7 +5,7 @@ I started coding during middle school by learning **web development**.
 ## 📱 Contact me:
 
 [![My Discord: belicfr](https://img.shields.io/badge/belicfr-%235562EB.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/705544259742466091)
-[![My GitHub: belicfr](https://img.shields.io/badge/belicfr-black.svg?style=for-the-badge&logo=github&logoColor=white)](https://discordapp.com/users/705544259742466091)
+[![My GitHub: belicfr](https://img.shields.io/badge/belicfr-black.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/belicfr)
 
 ---------
 
