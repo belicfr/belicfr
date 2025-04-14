@@ -6,6 +6,8 @@ I started coding during middle school by learning **web development**.
 
 [![My Discord: belicfr](https://img.shields.io/badge/belicfr-%235562EB.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/705544259742466091)
 [![My GitHub: belicfr](https://img.shields.io/badge/belicfr-black.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/belicfr)
+[![My Bento: belicfr](https://img.shields.io/badge/belicfr-white.svg?style=for-the-badge&logo=bento&logoColor=black)](https://bento.me/belicfr)
+[![Figma Community: belicfr](https://img.shields.io/badge/belicfr-black.svg?style=for-the-badge&logo=figma&logoColor=pink)](https://www.figma.com/@belicfr)
 
 ---------
 
