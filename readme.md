@@ -4,11 +4,11 @@ I started coding during middle school by learning **web development**.
 
 ## 📱 Contact me:
 
-[![My Discord: belicfr](https://img.shields.io/badge/belicfr-%235562EB.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/705544259742466091)
-[![My GitHub: belicfr](https://img.shields.io/badge/belicfr-black.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/belicfr)
-[![My Bento: belicfr](https://img.shields.io/badge/belicfr-white.svg?style=for-the-badge&logo=bento&logoColor=black)](https://bento.me/belicfr)
-[![Figma Community: belicfr](https://img.shields.io/badge/belicfr-black.svg?style=for-the-badge&logo=figma&logoColor=pink)](https://www.figma.com/@belicfr)
-[![X (formerly Twitter): belicfr](https://img.shields.io/badge/belicfr-black.svg?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/belicfr)
+[![My Discord: belicfr](https://img.shields.io/badge/Discord-%235562EB.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/705544259742466091)
+[![My GitHub: belicfr](https://img.shields.io/badge/GitHub-black.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/belicfr)
+[![My Bento: belicfr](https://img.shields.io/badge/My_Bento-white.svg?style=for-the-badge&logo=bento&logoColor=black)](https://bento.me/belicfr)
+[![Figma Community: belicfr](https://img.shields.io/badge/Figma_Community-black.svg?style=for-the-badge&logo=figma&logoColor=pink)](https://www.figma.com/@belicfr)
+[![X (formerly Twitter): belicfr](https://img.shields.io/badge/X-black.svg?style=for-the-badge&logo=x&logoColor=white)](https://www.x.com/belicfr)
 
 ---------
 
