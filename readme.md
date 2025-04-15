@@ -17,4 +17,4 @@ I started coding during middle school by learning **web development**.
 ![](https://raw.githubusercontent.com/belicfr/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![](https://raw.githubusercontent.com/belicfr/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/belicfr/github-stats/master/generated/languages.svg#gh-light-mode-only)
-[![GitHub Streak](https://streak-stats.demolab.com?user=belicfr&theme=swift&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-eight.vercel.app/?user=belicfr&theme=swift&hide_border=true)](https://git.io/streak-stats)
