@@ -5,7 +5,6 @@ I started coding during middle school by learning **web development**.
 ## 📱 Contact me:
 
 [![My GitHub: belicfr](https://img.shields.io/badge/GitHub-black.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/belicfr)
-[![My Bento: belicfr](https://img.shields.io/badge/My_Bento-white.svg?style=for-the-badge&logo=bento&logoColor=black)](https://bento.me/belicfr)
 
 ## Currently focusing on…
 
