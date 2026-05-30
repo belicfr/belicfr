@@ -1,6 +1,5 @@
-# Hi, I'm Jonathan! 😉
-I am a student in **Computer Sciences** and I am passionate by coding.\
-I started coding during middle school by learning **web development**.
+# I am Jonathan
+I am a student in **Computer Sciences**.
 
 ## 📱 Contact me:
 
