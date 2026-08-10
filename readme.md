@@ -10,7 +10,9 @@ I am a student in **Computer Sciences**.
 ### [Drift](https://github.com/drift-language)
 > **Drift** is a programming language designed and developed by myself. Based on conventional syntaxes,
 > with some minor and major enhancement.\
-> _Inspired by: Kotlin, Swift & TypeScript_
+> _Inspired by: Kotlin, Swift & TypeScript_\
+> [Website](https://driftlang.dev/)\
+> [GitHub Organization](https://github.com/drift-language/)
 
 ### IsoHotel (private)
 > A Web game engine based on isometric world creation. Create rooms, build in these, visit others & chat with other players!
